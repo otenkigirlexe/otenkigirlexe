@@ -1,8 +1,13 @@
 ### Hi there 👋
 
-This account is for reading only.
-However you will miss me if I don't write something.
-So I will write something lol.
+<p>
+This account is for reading only.<br>
+However you will miss me if I don't write something.<br>
+So I will write something lol.<br>
+</p>
+
+### Contact
+Contact us here: <a href="https://www.twitter.com/otenkigirl_exe">Twitter</a>
 
 <!--
 **otenkigirlexe/otenkigirlexe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
