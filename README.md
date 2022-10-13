@@ -7,7 +7,7 @@ So I will write something lol.<br>
 </p>
 
 ### Contact
-Contact us here: <a href="https://www.twitter.com/otenkigirl_exe">Twitter</a>
+Contact us here : <a href="https://www.twitter.com/otenkigirl_exe">Twitter</a>
 
 <!--
 **otenkigirlexe/otenkigirlexe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
