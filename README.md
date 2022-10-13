@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+This account is for reading only.
+However you will miss me if I don't write something.
+So I will write something lol.
+
 <!--
 **otenkigirlexe/otenkigirlexe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
