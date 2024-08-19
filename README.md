@@ -9,7 +9,7 @@ So I will write something lol.<br>
 ### Contact
 Contact us here : <a href="https://www.twitter.com/otenkigirl_exe">X (Formerly known as Twitter)</a>
 
-### Contact
+### Blog
 <p>
 Sequential updates are in progress.
 </p>
