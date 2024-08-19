@@ -10,7 +10,9 @@ So I will write something lol.<br>
 Contact us here : <a href="https://www.twitter.com/otenkigirl_exe">X (Formerly known as Twitter)</a>
 
 ### Contact
+<p>
 Sequential updates are in progress.
+</p>
 <a href="https://otenkigirlexe.github.io">otenkigirl.github.io</a>
 
 <!--
