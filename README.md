@@ -9,6 +9,10 @@ So I will write something lol.<br>
 ### Contact
 Contact us here : <a href="https://www.twitter.com/otenkigirl_exe">X (Formerly known as Twitter)</a>
 
+### Contact
+Sequential updates are in progress.
+<a href="https://otenkigirlexe.github.io">otenkigirl.github.io</a>
+
 <!--
 **otenkigirlexe/otenkigirlexe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
