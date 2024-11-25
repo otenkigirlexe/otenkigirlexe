@@ -7,13 +7,13 @@ So I will write something lol.<br>
 </p>
 
 ### Contact
-Contact us here : <a href="https://www.twitter.com/otenkigirl_exe">X (Formerly known as Twitter)</a>
+Contact us here : <a href="https://www.x.com/otenkigirl_exe">X (Formerly known as Twitter)</a>
 
 ### Blog
 <p>
 Sequential updates are in progress.
 </p>
-<a href="https://otenkigirlexe.github.io">otenkigirl.github.io</a>
+<a href="https://otenkigirlexe.github.io">https://otenkigirlexe.github.io</a>
 
 <!--
 **otenkigirlexe/otenkigirlexe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
