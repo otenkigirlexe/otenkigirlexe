@@ -2,8 +2,7 @@
 
 <p>
 This account is for reading only.<br>
-However you will miss me if I don't write something.<br>
-So I will write something lol.<br>
+I'm making or writing something.<br>
 </p>
 
 ### Contact📧
