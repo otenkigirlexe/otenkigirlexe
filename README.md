@@ -10,4 +10,4 @@ Contact us here : <a href="https://www.x.com/otenkigirl_exe">X (Formerly known a
 
 ### Blog🛴
 <p>Sequential updates are in progress.</p>
-<a href="https://otenkigirlexe.github.io">https://otenkigirlexe.github.io</a>
+<a href="https://hiyokoniki.jp">https://hiyokoniki.jp</a>
